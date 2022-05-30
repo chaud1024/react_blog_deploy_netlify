@@ -56,21 +56,9 @@
     },
     {
       "id": 10,
-      "title": "adf",
-      "datetime": "May 30, 2022 6:34:12 PM",
-      "body": "asdf"
-    },
-    {
-      "id": 11,
-      "title": "asdf",
-      "datetime": "May 30, 2022 6:35:59 PM",
-      "body": "asdf"
-    },
-    {
-      "id": 12,
-      "title": "asdf",
-      "datetime": "May 30, 2022 6:36:21 PM",
-      "body": "asdf"
+      "title": "Edit post",
+      "datetime": "May 30, 2022 11:57:31 PM",
+      "body": "I just wanted to edit this post!\n"
     }
   ]
 }
